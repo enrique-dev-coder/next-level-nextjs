@@ -1,0 +1,6 @@
+Iniciar firebase para crear un authentication provider
+
+se crea el archivo para iniciar con  firebase
+
+/src/auth/initFirebase.ts
+
